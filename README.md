@@ -4,8 +4,9 @@ A full-stack college website developed as part of our final year major project. 
 
 ### 🔧 Tech Stack:
 - **Frontend:** HTML, CSS, JavaScript, [React.js /tailwind Css / etc. – update based on your stack]
-- **Backend:** [Node.js / Express / etc.]
+- **Backend:** [Node.js / Express / EJS (Embedded JavaScript)  etc.]
 - **Database:** [ MongoDB ]
+- **Testing:** [postman / thunder client ]
 - **Deployment:** [ Netlify / Render]
 
 ### 👨‍💻 My Role:
