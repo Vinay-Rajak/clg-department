@@ -11,9 +11,9 @@ A full-stack college website developed as part of our final year major project. 
 ### 👨‍💻 My Role:
 - Led backend and server-side development
 - Integrated RESTful APIs and connected the frontend with database
-- Handled complete deployment and ensured smooth hosting of the project
+- Handled partially deployment and ensured smooth hosting of the project
 - Collaborated closely with team members for full-stack integration
-- Also add the chartbot using the google free api .
+- Also add the chartbot using the google free api . 
 
 ### 🌐 Live Link:
 https://uitrgpv.netlify.app/
